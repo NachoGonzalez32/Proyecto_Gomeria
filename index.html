@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Catálogo cubiertas - Gomeria 0KM </title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <nav class="navbar">
+      <div class="brand">
+        <span class="logo">LANDSPIDER</span>
+        <small>Catálogo de cubiertas</small>
+      </div>
+      <a class="whatsapp" href="https://wa.me/543424777036" target="_blank">Consultar por WhatsApp</a>
+    </nav>
+
+    <section class="hero-content">
+      <p class="eyebrow">Lista Abril</p>
+      <h1>Cubiertas Landspider para auto, camioneta y van</h1>
+      <p>Buscá por medida, modelo, origen o código. Precios finales actualizados para venta.</p>
+      <div class="hero-actions">
+        <a href="#catalogo" class="btn primary">Ver catálogo</a>
+        <a href="#comparativa" class="btn secondary">Comparar seleccionadas</a>
+      </div>
+    </section>
+  </header>
+
+  <main>
+
+    <section class="filters" id="catalogo">
+      <div>
+        <h2>Catálogo</h2>
+        <p>Filtrá las cubiertas disponibles.</p>
+      </div>
+
+      <div class="filter-grid">
+        <input id="searchInput" type="text" placeholder="Buscar: 205/55, Eurotraxx, 71815..." />
+        <select id="modelFilter">
+          <option value="">Todos los modelos</option>
+        </select>
+        <select id="originFilter">
+          <option value="">Todos los orígenes</option>
+          <option value="CHINA">China</option>
+          <option value="TAILANDIA">Tailandia</option>
+        </select>
+        <select id="sortFilter">
+          <option value="">Orden original</option>
+          <option value="priceAsc">Precio menor a mayor</option>
+          <option value="priceDesc">Precio mayor a menor</option>
+          <option value="nameAsc">Descripción A-Z</option>
+        </select>
+      </div>
+    </section>
+
+    <section id="productGrid" class="product-grid"></section>
+
+    <section class="compare" id="comparativa">
+      <h2>Comparativa</h2>
+      <p>Seleccioná cubiertas desde las tarjetas para agregarlas a esta tabla.</p>
+      <div class="table-wrap">
+        <table>
+          <thead>
+            <tr>
+              <th>Código</th>
+              <th>Descripción</th>
+              <th>Modelo</th>
+              <th>Origen</th>
+              <th>Precio final</th>
+            </tr>
+          </thead>
+          <tbody id="compareBody">
+            <tr><td colspan="5" class="empty">Todavía no seleccionaste productos.</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>Catálogo demostrativo · Reemplazá los apartados de imagen por fotos reales de cada cubierta.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
