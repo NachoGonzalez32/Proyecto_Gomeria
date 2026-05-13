@@ -673,4 +673,10 @@ footer{
     padding:14px;
   }
 
+  .new{
+    background:none;
+    color:white;
+    -webkit-text-fill-color:white;
+  }
+
 }
