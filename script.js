@@ -12,7 +12,7 @@ const products = [
     "descripcion": "175/65R14 82H EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 64540,
-    "precioFinal": 74221,
+    "precioFinal": 80000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -20,7 +20,7 @@ const products = [
     "descripcion": "175/65R14 86TXL EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 66220,
-    "precioFinal": 76153,
+    "precioFinal": 80000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -28,7 +28,7 @@ const products = [
     "descripcion": "175/70R13 82T EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 61330,
-    "precioFinal": 70530,
+    "precioFinal": 75000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -36,7 +36,7 @@ const products = [
     "descripcion": "175/70R14 88TXL EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 68740,
-    "precioFinal": 79051,
+    "precioFinal": 82000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -44,7 +44,7 @@ const products = [
     "descripcion": "185/70R14 88T EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 72960,
-    "precioFinal": 83904,
+    "precioFinal": 88000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -52,7 +52,7 @@ const products = [
     "descripcion": "185/60R14 82H EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 67280,
-    "precioFinal": 77372,
+    "precioFinal": 81000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -60,7 +60,7 @@ const products = [
     "descripcion": "185/60R15 84H EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 76565,
-    "precioFinal": 88050,
+    "precioFinal": 92000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -68,7 +68,7 @@ const products = [
     "descripcion": "185/65R14 86H EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 68025,
-    "precioFinal": 78229,
+    "precioFinal": 85000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -76,7 +76,7 @@ const products = [
     "descripcion": "185/65R15 92TXL EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 78505,
-    "precioFinal": 90281,
+    "precioFinal": 95000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -84,7 +84,7 @@ const products = [
     "descripcion": "195/55R15 85V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 76898,
-    "precioFinal": 88433,
+    "precioFinal": 93000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -92,7 +92,7 @@ const products = [
     "descripcion": "195/55R16 87V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 83315,
-    "precioFinal": 95812,
+    "precioFinal": 100000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -100,7 +100,7 @@ const products = [
     "descripcion": "195/55R16 91VXL EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 86695,
-    "precioFinal": 99699,
+    "precioFinal": 105000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -108,7 +108,7 @@ const products = [
     "descripcion": "195/60R15 88V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 81340,
-    "precioFinal": 93541,
+    "precioFinal": 97000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -116,7 +116,7 @@ const products = [
     "descripcion": "195/65R15 91V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 81775,
-    "precioFinal": 94041,
+    "precioFinal": 99000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -124,7 +124,7 @@ const products = [
     "descripcion": "205/55R16 91V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 87020,
-    "precioFinal": 100073,
+    "precioFinal": 105000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -132,7 +132,7 @@ const products = [
     "descripcion": "205/65R15 94V EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 89295,
-    "precioFinal": 102689,
+    "precioFinal": 108000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -140,7 +140,7 @@ const products = [
     "descripcion": "215/65R16 98H EUROTRAXX H/P",
     "origen": "CHINA",
     "precioLista": 116660,
-    "precioFinal": 139992,
+    "precioFinal": 140000,
     "modelo": "EUROTRAXX H/P"
   },
   {
@@ -148,7 +148,7 @@ const products = [
     "descripcion": "205/55R17 95WXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 106210,
-    "precioFinal": 127452,
+    "precioFinal": 122000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -156,7 +156,7 @@ const products = [
     "descripcion": "215/50R17 95WXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 108030,
-    "precioFinal": 129636,
+    "precioFinal": 125000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -164,7 +164,7 @@ const products = [
     "descripcion": "215/55R17 98WXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 111730,
-    "precioFinal": 134076,
+    "precioFinal": 129000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -172,7 +172,7 @@ const products = [
     "descripcion": "225/45ZR17 94YXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 104810,
-    "precioFinal": 125772,
+    "precioFinal": 121000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -180,7 +180,7 @@ const products = [
     "descripcion": "225/50R18 99WXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 125280,
-    "precioFinal": 150336,
+    "precioFinal": 144000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -188,7 +188,7 @@ const products = [
     "descripcion": "235/50R18 99WXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 138360,
-    "precioFinal": 166032,
+    "precioFinal": 160000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -196,7 +196,7 @@ const products = [
     "descripcion": "235/50ZR19 103YXL SPORTRAXX UHP",
     "origen": "CHINA",
     "precioLista": 153210,
-    "precioFinal": 183852,
+    "precioFinal": 176000,
     "modelo": "SPORTRAXX UHP"
   },
   {
@@ -204,7 +204,7 @@ const products = [
     "descripcion": "185R14C 102/100S DURATRAXX VAN",
     "origen": "CHINA",
     "precioLista": 101525,
-    "precioFinal": 121830,
+    "precioFinal": 122000,
     "modelo": "DURATRAXX VAN"
   },
   {
@@ -212,7 +212,7 @@ const products = [
     "descripcion": "195/75R16C 107/105S DURATRAXX VAN",
     "origen": "CHINA",
     "precioLista": 116060,
-    "precioFinal": 139272,
+    "precioFinal": 139000,
     "modelo": "DURATRAXX VAN"
   },
   {
@@ -220,7 +220,7 @@ const products = [
     "descripcion": "195R14C 106/104S DURATRAXX VAN",
     "origen": "CHINA",
     "precioLista": 109255,
-    "precioFinal": 131106,
+    "precioFinal": 131000,
     "modelo": "DURATRAXX VAN"
   },
   {
@@ -228,7 +228,7 @@ const products = [
     "descripcion": "205/75R16C 110/108S DURATRAXX VAN",
     "origen": "CHINA",
     "precioLista": 125995,
-    "precioFinal": 151194,
+    "precioFinal": 145000,
     "modelo": "DURATRAXX VAN"
   },
   {
@@ -236,7 +236,7 @@ const products = [
     "descripcion": "225/75R16C 121/120R DURATRAXX VAN",
     "origen": "CHINA",
     "precioLista": 155450,
-    "precioFinal": 186540,
+    "precioFinal": 179000,
     "modelo": "DURATRAXX VAN"
   },
   {
@@ -244,7 +244,7 @@ const products = [
     "descripcion": "205R16C 110/108S GRANDTRAXX A/T",
     "origen": "CHINA",
     "precioLista": 147425,
-    "precioFinal": 176910,
+    "precioFinal": 170000,
     "modelo": "GRANDTRAXX A/T"
   },
   {
@@ -252,7 +252,7 @@ const products = [
     "descripcion": "225/70R17C 112/110S GRANDTRAXX A/T",
     "origen": "CHINA",
     "precioLista": 151475,
-    "precioFinal": 181770,
+    "precioFinal": 174000,
     "modelo": "GRANDTRAXX A/T"
   },
   {
@@ -260,7 +260,7 @@ const products = [
     "descripcion": "245/70R16 111TXL GRANDTRAXX A/T",
     "origen": "CHINA",
     "precioLista": 160330,
-    "precioFinal": 192396,
+    "precioFinal": 184000,
     "modelo": "GRANDTRAXX A/T"
   },
   {
@@ -268,7 +268,7 @@ const products = [
     "descripcion": "265/70R16 112T GRANDTRAXX A/T",
     "origen": "CHINA",
     "precioLista": 168920,
-    "precioFinal": 202704,
+    "precioFinal": 194000,
     "modelo": "GRANDTRAXX A/T"
   },
   {
@@ -276,7 +276,7 @@ const products = [
     "descripcion": "245/65R17 111 HXL GRANDTRAXX A/T",
     "origen": "CHINA",
     "precioLista": 159890,
-    "precioFinal": 191868,
+    "precioFinal": 184000,
     "modelo": "GRANDTRAXX A/T"
   },
   {
@@ -284,7 +284,7 @@ const products = [
     "descripcion": "205/50ZR17 93WXL CITYTRAXX HP",
     "origen": "TAILANDIA",
     "precioLista": 100280,
-    "precioFinal": 120336,
+    "precioFinal": 120000,
     "modelo": "CITYTRAXX HP"
   },
   {
@@ -292,7 +292,7 @@ const products = [
     "descripcion": "215/55R17 98WXL CITYTRAXX H/P",
     "origen": "TAILANDIA",
     "precioLista": 123000,
-    "precioFinal": 147600,
+    "precioFinal": 147000,
     "modelo": "CITYTRAXX H/P"
   },
   {
@@ -300,7 +300,7 @@ const products = [
     "descripcion": "225/70R16 107HXL CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 148480,
-    "precioFinal": 178176,
+    "precioFinal": 178000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -308,7 +308,7 @@ const products = [
     "descripcion": "235/50R19 103WXL CITYTRAXX H/P",
     "origen": "TAILANDIA",
     "precioLista": 179570,
-    "precioFinal": 215484,
+    "precioFinal": 205000,
     "modelo": "CITYTRAXX H/P"
   },
   {
@@ -316,7 +316,7 @@ const products = [
     "descripcion": "235/65R17 108HKL CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 165300,
-    "precioFinal": 198360,
+    "precioFinal": 198000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -324,7 +324,7 @@ const products = [
     "descripcion": "235/70R16 106H CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 162720,
-    "precioFinal": 195264,
+    "precioFinal": 195000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -332,7 +332,7 @@ const products = [
     "descripcion": "245/65R17 111HXL CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 172660,
-    "precioFinal": 207192,
+    "precioFinal": 207000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -340,7 +340,7 @@ const products = [
     "descripcion": "245/70R16 111HXL CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 172664,
-    "precioFinal": 207197,
+    "precioFinal": 207000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -348,7 +348,7 @@ const products = [
     "descripcion": "245/70R17 119/116S CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 224830,
-    "precioFinal": 269796,
+    "precioFinal": 264000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -356,7 +356,7 @@ const products = [
     "descripcion": "255/70R16 111H CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 185700,
-    "precioFinal": 222840,
+    "precioFinal": 222000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -364,7 +364,7 @@ const products = [
     "descripcion": "265/60R18 110H CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 197640,
-    "precioFinal": 237168,
+    "precioFinal": 237000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -372,7 +372,7 @@ const products = [
     "descripcion": "265/65R17 112H CITYTRAXX H/T",
     "origen": "TAILANDIA",
     "precioLista": 197750,
-    "precioFinal": 237300,
+    "precioFinal": 237000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -380,7 +380,7 @@ const products = [
     "descripcion": "265/70R16 112H CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 192130,
-    "precioFinal": 230556,
+    "precioFinal": 230000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -388,7 +388,7 @@ const products = [
     "descripcion": "LT225/75R16 115/1125 CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 191650,
-    "precioFinal": 229980,
+    "precioFinal": 229000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -396,7 +396,7 @@ const products = [
     "descripcion": "LT235/85R16 120/116S CITYTRAXX H/T",
     "origen": "CHINA",
     "precioLista": 212000,
-    "precioFinal": 254400,
+    "precioFinal": 254000,
     "modelo": "CITYTRAXX H/T"
   },
   {
@@ -404,7 +404,7 @@ const products = [
     "descripcion": "245/65R17 111TXL WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 212664,
-    "precioFinal": 255197,
+    "precioFinal": 255000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -412,7 +412,7 @@ const products = [
     "descripcion": "245/70R16 111TXL WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 209320,
-    "precioFinal": 251184,
+    "precioFinal": 251000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -420,7 +420,7 @@ const products = [
     "descripcion": "255/70R16 111T WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 220978,
-    "precioFinal": 265174,
+    "precioFinal": 265000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -428,7 +428,7 @@ const products = [
     "descripcion": "265/60R18 114TXL WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 239124,
-    "precioFinal": 286949,
+    "precioFinal": 286000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -436,7 +436,7 @@ const products = [
     "descripcion": "265/65R17 112T WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 232354,
-    "precioFinal": 278825,
+    "precioFinal": 278000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -444,7 +444,7 @@ const products = [
     "descripcion": "265/70R16 112T WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 244435,
-    "precioFinal": 293322,
+    "precioFinal": 293000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -452,7 +452,7 @@ const products = [
     "descripcion": "265/70R18 116T WILDTRAXX A/T",
     "origen": "TAILANDIA",
     "precioLista": 197635,
-    "precioFinal": 237162,
+    "precioFinal": 237000,
     "modelo": "WILDTRAXX A/T"
   },
   {
@@ -460,7 +460,7 @@ const products = [
     "descripcion": "285/65R18 125/122Q WILDTRAXX M/T",
     "origen": "TAILANDIA",
     "precioLista": 290375,
-    "precioFinal": 348450,
+    "precioFinal": 348000,
     "modelo": "WILDTRAXX M/T"
   },
   {
@@ -468,7 +468,7 @@ const products = [
     "descripcion": "35X12.50R17LT 121 WILDTRAXX M/T",
     "origen": "TAILANDIA",
     "precioLista": 417126,
-    "precioFinal": 500551,
+    "precioFinal": 500000,
     "modelo": "WILDTRAXX M/T"
   },
   {
@@ -476,7 +476,7 @@ const products = [
     "descripcion": "LT265/75R16 123/1200 WILDTRAXX M/T",
     "origen": "TAILANDIA",
     "precioLista": 303224,
-    "precioFinal": 363869,
+    "precioFinal": 363000,
     "modelo": "WILDTRAXX M/T"
   }
 ];
